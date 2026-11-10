@@ -4,7 +4,7 @@
 
 **A lightweight, highly portable Discord utility designed for global timezones, automated reminders, and server tracking.**
 
-[🌐 Live Website](https://sarthakbisht88.github.io/Clock-Bot-Website/) • [🤖 Invite Bot](https://discord.com/oauth2/authorize?client_id=1463741597043789887) • [💬 Support Server](https://top.gg/discord/servers/904636741903486976) • [⭐ Leave a Review](https://top.gg/bot/1463741597043789887)
+[🌐 Live Website](https://clock-bot.netlify.app/) • [🤖 Invite Bot](https://discord.com/oauth2/authorize?client_id=1463741597043789887) • [💬 Support Server](https://top.gg/discord/servers/904636741903486976) • [⭐ Leave a Review](https://top.gg/bot/1463741597043789887)
 
 </div>
 
@@ -51,7 +51,7 @@ Clock Bot is built using modern Discord User-App and Guild architectures. It bri
 
 Clock Bot is designed for seamless scaling:
 * **Backend:** Python (`discord.py`, `pytz`, asynchronous task loops) with JSON-backed persistent data storage.
-* **Frontend Portal:** Fully responsive static landing page hosted on [GitHub Pages](https://sarthakbisht88.github.io/Clock-Bot-Website/).
+* **Frontend Portal:** Fully responsive static landing page hosted on [Netlify](https://clock-bot.netlify.app/).
 
 ---
 
